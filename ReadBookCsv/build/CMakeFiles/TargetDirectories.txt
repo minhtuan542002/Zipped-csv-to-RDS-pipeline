@@ -1,4 +1,0 @@
-/mnt/d/coding/aws/cpp/test/ReadBookCsv/build/CMakeFiles/ReadBookCsv.dir
-/mnt/d/coding/aws/cpp/test/ReadBookCsv/build/CMakeFiles/aws-lambda-package-ReadBookCsv.dir
-/mnt/d/coding/aws/cpp/test/ReadBookCsv/build/CMakeFiles/edit_cache.dir
-/mnt/d/coding/aws/cpp/test/ReadBookCsv/build/CMakeFiles/rebuild_cache.dir
