@@ -1,0 +1,4 @@
+/mnt/d/coding/aws/cpp/test/ProcessCsvToDatabase/build/CMakeFiles/ProcessCsvToDatabase.dir
+/mnt/d/coding/aws/cpp/test/ProcessCsvToDatabase/build/CMakeFiles/aws-lambda-package-ProcessCsvToDatabase.dir
+/mnt/d/coding/aws/cpp/test/ProcessCsvToDatabase/build/CMakeFiles/edit_cache.dir
+/mnt/d/coding/aws/cpp/test/ProcessCsvToDatabase/build/CMakeFiles/rebuild_cache.dir

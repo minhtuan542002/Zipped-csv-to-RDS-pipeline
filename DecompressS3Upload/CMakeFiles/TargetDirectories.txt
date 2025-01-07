@@ -1,0 +1,6 @@
+/mnt/d/coding/aws/cpp/test/decompresss3upload/CMakeFiles/edit_cache.dir
+/mnt/d/coding/aws/cpp/test/decompresss3upload/CMakeFiles/rebuild_cache.dir
+/mnt/d/coding/aws/cpp/test/decompresss3upload/source/CMakeFiles/DecompressS3Upload.dir
+/mnt/d/coding/aws/cpp/test/decompresss3upload/source/CMakeFiles/aws-lambda-package-DecompressS3Upload.dir
+/mnt/d/coding/aws/cpp/test/decompresss3upload/source/CMakeFiles/edit_cache.dir
+/mnt/d/coding/aws/cpp/test/decompresss3upload/source/CMakeFiles/rebuild_cache.dir
